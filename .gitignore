@@ -37,3 +37,6 @@ yarn-error.*
 # yarn
 .yarn
 yarn.lock
+
+# secrets
+secrets.ts
